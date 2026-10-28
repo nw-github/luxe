@@ -36,10 +36,14 @@ TODO
 
 ## Demo
 
-- Luxe running [doomgeneric](https://github.com/ozkl/doomgeneric)
-
 ![doom](doom.png)
 
-- Luxe running [figlet](https://www.figlet.org/)
+*Luxe running [doomgeneric](https://github.com/ozkl/doomgeneric)*
 
 ![figlet](figlet.png)
+
+*Luxe running [figlet](https://www.figlet.org/)*
+
+![snes9x](snes9x.png)
+
+*Luxe running [Snes9x 1.63](https://github.com/snes9xgit/snes9x)*
